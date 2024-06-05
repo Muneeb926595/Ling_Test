@@ -1,0 +1,4 @@
+export const AuthActionTypes = {
+  SET_FILTERED_USERS: 'SET_FILTERED_USERS',
+  SET_SEARCHED_USER: 'SET_SEARCHED_USER',
+};
